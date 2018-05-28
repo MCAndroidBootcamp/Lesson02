@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="movie">Movie:</string>
+    <string name="age">Age:</string>
+    <string name="name">Name:</string>
+</resources>
